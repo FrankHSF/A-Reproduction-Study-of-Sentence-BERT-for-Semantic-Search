@@ -1,0 +1,13 @@
+Model Name : all-MiniLM-L6-v2
+
+Framework : Sentence-Transformers
+
+Embedding Dimension : 384
+
+Pooling Method : Mean Pooling
+
+Similarity Metric : Cosine Similarity
+
+Library : sentence-transformers
+
+Backend : PyTorch
