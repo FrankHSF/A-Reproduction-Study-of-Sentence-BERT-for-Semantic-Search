@@ -63,15 +63,95 @@ The implementation is based entirely on publicly available software libraries wi
 
 
 
-SentenceBERT_Reproduction/
-dataset/
-figures/
-model/
-output/
-source/
-requirements.txt
-README.md
-main.py
+SentenceBERT\_Reproduction/
+&#x20;   dataset/
+&#x20;   figures/
+&#x20;   model/
+&#x20;   output/
+&#x20;   source/
+&#x20;   requirements.txt
+&#x20;   README.md
+&#x20;   main.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -81,7 +161,7 @@ main.py
 
 
 
-git clone <https://github.com/FrankHSF/A-Reproduction-Study-of-Sentence-BERT-for-Semantic-Search>
+git clone [https://github.com/FrankHSF/A-Reproduction-Study-of-Sentence-BERT-for-Semantic-Search](https://github.com/FrankHSF/A-Reproduction-Study-of-Sentence-BERT-for-Semantic-Search)
 
 
 
