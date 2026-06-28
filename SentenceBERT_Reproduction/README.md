@@ -63,15 +63,102 @@ The implementation is based entirely on publicly available software libraries wi
 
 
 
-SentenceBERT\_Reproduction
-¢u¢w¢w dataset
-¢u¢w¢w figures
-¢u¢w¢w model
-¢u¢w¢w output
-¢u¢w¢w source
-¢u¢w¢w requirements.txt
-¢u¢w¢w README.md
-¢|¢w¢w main.py
+SentenceBERT_Reproduction/
+
+&ensp;&ensp;&ensp;&ensp;dataset/
+
+&ensp;&ensp;&ensp;&ensp;figures/
+
+&ensp;&ensp;&ensp;&ensp;model/
+
+&ensp;&ensp;&ensp;&ensp;output/
+
+&ensp;&ensp;&ensp;&ensp;source/
+
+&ensp;&ensp;&ensp;&ensp;requirements.txt
+
+&ensp;&ensp;&ensp;&ensp;README.md
+
+&ensp;&ensp;&ensp;&ensp;main.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -81,7 +168,7 @@ SentenceBERT\_Reproduction
 
 
 
-git clone <repository-url>
+git clone [https://github.com/FrankHSF/A-Reproduction-Study-of-Sentence-BERT-for-Semantic-Search](https://github.com/FrankHSF/A-Reproduction-Study-of-Sentence-BERT-for-Semantic-Search)
 
 
 
@@ -174,23 +261,23 @@ IEEE Report
 
 # References
 
-\[1] N. Reimers and I. Gurevych, "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks," in *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*, Hong Kong, China, Nov. 2019, pp. 3982¡V3992.
+\[1] N. Reimers and I. Gurevych, "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks," in *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*, Hong Kong, China, Nov. 2019, pp. 3982 V3992.
 
 
 
-\[2] J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding," in *Proceedings of NAACL-HLT 2019*, Minneapolis, MN, USA, Jun. 2019, pp. 4171¡V4186.
+\[2] J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding," in *Proceedings of NAACL-HLT 2019*, Minneapolis, MN, USA, Jun. 2019, pp. 4171 V4186.
 
 
 
-\[3] T. Wolf *et al*., "Transformers: State-of-the-Art Natural Language Processing," in *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations*, 2020, pp. 38¡V45.
+\[3] T. Wolf *et al*., "Transformers: State-of-the-Art Natural Language Processing," in *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations*, 2020, pp. 38 V45.
 
 
 
-\[4] L. van der Maaten and G. Hinton, "Visualizing Data using t-SNE," *Journal of Machine Learning Research*, vol. 9, pp. 2579¡V2605, Nov. 2008.
+\[4] L. van der Maaten and G. Hinton, "Visualizing Data using t-SNE," *Journal of Machine Learning Research*, vol. 9, pp. 2579 V2605, Nov. 2008.
 
 
 
-\[5] F. Pedregosa *et al*., "Scikit-learn: Machine Learning in Python," *Journal of Machine Learning Research*, vol. 12, pp. 2825¡V2830, 2011.
+\[5] F. Pedregosa *et al*., "Scikit-learn: Machine Learning in Python," *Journal of Machine Learning Research*, vol. 12, pp. 2825 V2830, 2011.
 
 
 
@@ -202,11 +289,11 @@ IEEE Report
 
 
 
-\[8] J. Pennington, R. Socher, and C. D. Manning, "GloVe: Global Vectors for Word Representation," in *Proceedings of EMNLP 2014*, Doha, Qatar, Oct. 2014, pp. 1532¡V1543.
+\[8] J. Pennington, R. Socher, and C. D. Manning, "GloVe: Global Vectors for Word Representation," in *Proceedings of EMNLP 2014*, Doha, Qatar, Oct. 2014, pp. 1532 V1543.
 
 
 
-\[9] A. Singhal, "Modern Information Retrieval: A Brief Overview," *IEEE Data Engineering Bulletin*, vol. 24, no. 4, pp. 35¡V43, Dec. 2001.
+\[9] A. Singhal, "Modern Information Retrieval: A Brief Overview," *IEEE Data Engineering Bulletin*, vol. 24, no. 4, pp. 35 V43, Dec. 2001.
 
 
 
