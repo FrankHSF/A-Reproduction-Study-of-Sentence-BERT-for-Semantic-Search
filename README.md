@@ -63,15 +63,23 @@ The implementation is based entirely on publicly available software libraries wi
 
 
 
-SentenceBERT\_Reproduction/
-&#x20;   dataset/
-&#x20;   figures/
-&#x20;   model/
-&#x20;   output/
-&#x20;   source/
-&#x20;   requirements.txt
-&#x20;   README.md
-&#x20;   main.py
+SentenceBERT_Reproduction/
+
+&ensp;&ensp;&ensp;&ensp;dataset/
+
+&ensp;&ensp;&ensp;&ensp;figures/
+
+&ensp;&ensp;&ensp;&ensp;model/
+
+&ensp;&ensp;&ensp;&ensp;output/
+
+&ensp;&ensp;&ensp;&ensp;source/
+
+&ensp;&ensp;&ensp;&ensp;requirements.txt
+
+&ensp;&ensp;&ensp;&ensp;README.md
+
+&ensp;&ensp;&ensp;&ensp;main.py
 
 
 
